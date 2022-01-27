@@ -1,3 +1,3 @@
 # PublisherSubscriberApp
 
-# End-to-end IoT solution using MQQT protocol
+End-to-end IoT solution using MQQT protocol
